@@ -34,6 +34,14 @@ p{
 
 }
 
+.retry{
+  width: 10%;
+  -moz-box-shadow: 0 0 10px #000000;
+  -webkit-box-shadow: 0 0 10px #000000;
+  box-shadow: 0 0 10px #000000;
+  border-radius: 100%;
+}
+
 .grid {
   height: 400px;
   width: 400px;
